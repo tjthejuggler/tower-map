@@ -1,5 +1,18 @@
 .App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
   text-align: center;
+  color: #333;
+}
+
+.leaflet-container {
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
 }
 
 .App-logo {
